@@ -10,7 +10,7 @@
 
 동작화면
 <div>
-  <img width="200" src="file:///C:/Users/1/Desktop/image/KakaoTalk_20200513_133703118.jpg">
-  <img width="200" src="https://user-images.githubusercontent.com/59160428/81771608-6ee0b880-951e-11ea-8ea5-d09062c5772d.jpg">
-  <img width="200" src="https://user-images.githubusercontent.com/59160428/81771617-756f3000-951e-11ea-9d8c-599c528b545c.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/59160428/81771834-03e3b180-951f-11ea-98d7-37d2d20c5d0e.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/59160428/81771837-047c4800-951f-11ea-9c3f-25214188bfbb.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/59160428/81771839-0514de80-951f-11ea-8e23-553593125afb.jpg">
 </div>
