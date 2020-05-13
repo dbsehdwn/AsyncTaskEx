@@ -10,7 +10,7 @@
 
 동작화면
 <div>
-  <img width="200" src="https://user-images.githubusercontent.com/59160428/76055888-47b6b980-5fb8-11ea-82b6-4d604dd4e2d9.jpg">
-  <img width="200" src="https://user-images.githubusercontent.com/59160428/76056139-1ee2f400-5fb9-11ea-8963-695b228d63e0.jpg">
-  <img width="200" src="https://user-images.githubusercontent.com/59160428/76056140-22767b00-5fb9-11ea-9a1f-59ba7e675e35.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/59160428/81771585-5ffa0600-951e-11ea-9a00-5dc56fbfd7d7.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/59160428/81771608-6ee0b880-951e-11ea-8ea5-d09062c5772d.jpg">
+  <img width="200" src="https://user-images.githubusercontent.com/59160428/81771617-756f3000-951e-11ea-9d8c-599c528b545c.jpg">
 </div>
